@@ -1,0 +1,10 @@
+<svg id="tick" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="32" height="32" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_3" data-name="Mask Group 3" clip-path="url(#clip-path)">
+    <path id="noun-tick-1016410" d="M10.945,15.313l4.4,6.474,12.485-13.4h8.2L15.347,31.679,4.036,15.307h6.909Z" transform="translate(-4.036 -4.036)" fill="#a7001e" fill-rule="evenodd"/>
+  </g>
+</svg>

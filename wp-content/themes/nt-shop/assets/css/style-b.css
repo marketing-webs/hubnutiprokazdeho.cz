@@ -1,0 +1,143 @@
+/*
+* Import Mixins
+*/
+.button {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  background-color: #40c32e;
+}
+.badge{
+  background: url(/wp-content/themes/nt-shop/assets/img/SVG/badge.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  right: auto;
+  top: 230px;
+  left: -60px;
+  position: relative;
+  width: 104px;
+  height: 104px;
+}
+.button.arrow {
+  padding-right: 35px;
+}
+.button.arrow:before {
+  display: none;
+}
+.button.arrow:after {
+  display: none;
+}
+.button:hover,
+.button:focus {
+  -webkit-opacity: 0.85;
+  -moz-opacity: 0.85;
+  opacity: 0.85;
+}
+header .head .menu-line .cart {
+  background-color: #F1F1F1;
+}
+header .head .menu-line .cart .amount {
+  color: #FFF;
+}
+header .head .menu-line .cart .icon i {
+  color: #FFF;
+}
+header .head .menu-line .cart:after {
+  display: none;
+}
+main section.hero .hero-wrapper .product-image {
+  max-width: 520px;
+}
+
+main section.hero .hero-wrapper .hero-content .subtitle {
+  text-transform: lowercase;
+}
+main section.how-it-works h3 {
+  font-size: 26px;
+}
+main section.references-new .overal-2 .stars i,
+main section.references-new .overal-3 .stars-row .stars i,
+main section.reviews .review-box .left .stars i.fas,
+main section.reviews .review-box .left .stars i.fal {
+  color: #efba2d;
+}
+main section.references-new .big {
+  color: white;
+}
+main section.products .product-box {
+  margin: 0;
+}
+main section.products .product-box.box-0 {
+  padding-top: 80px;
+}
+main section.products .product-box.box-1 {
+  background-color: #fff;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  margin-top: 30px;
+}
+main section.products .product-box.box-2 {
+  padding-top: 30px;
+  margin-top: 50px;
+}
+main section.products .product-box .discount {
+  right: auto;
+  top: 170px;
+  left: -40px;
+}
+.section-title .light-green-bg.no-bg-b {
+  background-color: transparent;
+  padding: 10px 0 0;
+}
+.section-title .light-green-bg.gray-bg-b {
+  background-color: #f1f1f1;
+}
+.section-title .light-green-bg.gray-bg-b h2 {
+  color: #000;
+}
+.section-title h2 {
+  font-size: 40px;
+  font-weight: 400;
+}
+main section.reviews .review-box {
+  border-top: 1px solid #a5c7e9;
+}
+main section.reviews .review-box:last-child {
+  border-bottom: 1px solid #a5c7e9;
+}
+main section.products .product-box.box-0 {
+  border: 2px solid #4f73a0;
+}
+main section.products .product-box.box-0 .label {
+  background-color: #4f73a0;
+}
+main section.products .product-box.box-0 .discount {
+  background-color: #4f73a0;
+}
+main section.products .product-box.box-1 {
+  border: 2px solid #98c19b;
+}
+main section.products .product-box.box-1 .label {
+  background-color: #98c19b;
+}
+main section.products .product-box.box-1 .discount {
+  background-color: #98c19b;
+}
+main section.products .product-box.box-2 {
+  border: 2px solid #c1c1c1;
+}
+main section.products .product-box.box-2 .label {
+  background-color: #c1c1c1;
+}
+main section.products .product-box.box-2 .discount {
+  background-color: #c1c1c1;
+}
+@media (max-width: 768px) {
+  main section.hero .hero-wrapper .product-image {
+    max-width: 100%;
+  }
+}
+/*# sourceMappingURL=style-b.css.map */

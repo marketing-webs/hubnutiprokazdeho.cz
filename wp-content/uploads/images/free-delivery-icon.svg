@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.848" height="43.648" viewBox="0 0 43.848 43.648">
+  <g id="free-delivery-icon" transform="translate(1.372 1)">
+    <g id="Group_14" data-name="Group 14" transform="translate(9.321)">
+      <path id="Path_36" data-name="Path 36" d="M534,140.634V116.666a.666.666,0,0,1,.666-.666h27.963a.666.666,0,0,1,.666.666v21.3" transform="translate(-534 -116)" fill="none" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_37" data-name="Path 37" d="M549,116v6.658l2-.666,2.663.666,2.663-.666,2,.666V116" transform="translate(-539.013 -116)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_10" data-name="Line 10" x2="5" transform="translate(19.318 19.639)" fill="none" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(0 22.475)">
+      <path id="Path_38" data-name="Path 38" d="M553.281,155.247l8.852-5.09a3,3,0,0,1,4.089,1.1h0a3.006,3.006,0,0,1-1.1,4.092L552.2,162.711a3.989,3.989,0,0,1-1.975.523h-9.811a3.986,3.986,0,0,0-2.053.569l-2.378,1.427" transform="translate(-525.343 -149.758)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_39" data-name="Path 39" d="M539.65,156.992h7.657a3,3,0,0,0,3-3v0A3,3,0,0,0,547.309,151H536.5a3.994,3.994,0,0,0-2.152.629l-7.348,4.7" transform="translate(-522.34 -150.173)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_40" data-name="Path 40" d="M520,158l3.326-2,7.982,12.647-3.326,2" transform="translate(-520 -151.845)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

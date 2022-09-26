@@ -1,0 +1,24 @@
+@media (max-width: 1115px) {
+header .container-fluid{
+    position: unset!important;
+}
+header .head .menu-line .menu {
+    float: none;
+    position: absolute;
+    top: 115px;
+    right: 0;
+    width: 100%;
+    height: calc(100vh - 100px);
+    -ms-transform: translateX(100%);
+    -webkit-transform: translateX(100%);
+    -o-transform: translateX(100%);
+    transform: translateX(100%);
+    -webkit-transition: all ease 0.25s;
+    -moz-transition: all ease 0.25s;
+    -ms-transition: all ease 0.25s;
+    -o-transition: all ease 0.25s;
+    background-color: #fff;
+    border-top: 1px solid #d2d2d2;
+    overflow-y: scroll;
+  }
+}

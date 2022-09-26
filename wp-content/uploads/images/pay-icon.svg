@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75.389" height="49.146" viewBox="0 0 75.389 49.146">
+  <g id="pay-icon" transform="translate(-40.389 -49.855)">
+    <g id="Group_5" data-name="Group 5">
+      <g id="Group_4" data-name="Group 4">
+        <g id="Group_3" data-name="Group 3">
+          <g id="Group_2" data-name="Group 2">
+            <path id="Path_4096" data-name="Path 4096" d="M74.508,75.355a3.586,3.586,0,0,0,7.152,0c0-1.836-1.908-2.64-3.586-3.491s-3.58-1.652-3.58-3.489a3.584,3.584,0,0,1,7.15,0" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.5"/>
+            <line id="Line_1" data-name="Line 1" y1="2.438" transform="translate(78.068 62.596)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.5"/>
+            <line id="Line_2" data-name="Line 2" y1="2.44" transform="translate(78.068 78.697)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.5"/>
+          </g>
+        </g>
+      </g>
+      <path id="Path_4097" data-name="Path 4097" d="M69.091,60.674a14.352,14.352,0,1,1-3.653,4.435" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" fill-rule="evenodd"/>
+    </g>
+    <g id="Group_6" data-name="Group 6">
+      <path id="Path_4098" data-name="Path 4098" d="M48.524,87.288V55.419A4.327,4.327,0,0,1,52.837,51.1h50.487a4.328,4.328,0,0,1,4.318,4.314V87.288" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Path_4099" data-name="Path 4099" d="M41.639,92.042s1.257,5.709,5.433,5.709h62.022c4.176,0,5.434-5.709,5.434-5.709Z" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>
