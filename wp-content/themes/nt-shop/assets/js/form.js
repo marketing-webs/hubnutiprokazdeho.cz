@@ -117,7 +117,7 @@ const checkpaymentType = () => {
   if (paymentType.checked) {
     return "pobranie";
   } else {
-    return "przedpłata";
+    return "pobranie";
   }
 };
 
